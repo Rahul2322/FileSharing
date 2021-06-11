@@ -1,0 +1,6 @@
+node_modules
+.env
+#exclude everything
+uploads/*
+#exception to the rule i.e keep only empty folder
+!uploads/.gitkeep
